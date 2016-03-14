@@ -1,17 +1,17 @@
 {
-  "name": "jsonresume-theme-flat",
-  "version": "0.3.7",
+  "name": "jsonresume-theme-newflat",
+  "version": "0.1.0",
   "description": "A theme for JSON Resume",
-  "author": "Mattias Erming",
+  "author": "Naum Azeredo",
   "repository": {
     "type": "git",
-    "url": "http://github.com/erming/jsonresume-theme-flat"
+    "url": "http://github.com/naumazeredo/jsonresume-theme-newflat"
   },
   "scripts": {
     "start": "resume serve"
   },
   "dependencies": {
-    "handlebars": "^2.0.0-alpha.4"
+    "handlebars": "^2.0.0"
   },
   "license": "MIT"
 }

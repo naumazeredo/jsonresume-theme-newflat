@@ -1,6 +1,4 @@
-## Preview
-
-The theme can be previewed at http://themes.jsonresume.org/flat
+The New Flat theme is based on Flat theme (http://themes.jsonresume.org/flat)
 
 ## License
 
